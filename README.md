@@ -3,4 +3,4 @@ The Document Understanding Framework is designed to help us combine different ap
 
 ![alt text](https://github.com/bacdillon/UiPath-Intelligent-Document-Processing/blob/main/DU.JPG)
 
-![alt text](https://github.com/bacdillon/UiPath-Intelligent-Document-Processing/blob/main/Action%20Classification.JPG)
+![alt text](https://github.com/bacdillon/UiPath-Intelligent-Document-Processing/blob/main/Action%20Validation.JPG)
